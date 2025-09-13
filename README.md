@@ -3,7 +3,7 @@ It is a real-time team communication dashboard that brings people together with 
 
 
 **LIVE DEMO**
-click here  --> https://23wh1a0515.github.io/NexctCloud-Talk/ 
+click here  --> https://23wh1a0515.github.io/NextCloud-Talk/ 
 
 
 --> Setup Instructions:
